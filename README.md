@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Computer Science at ETH Zürich
+
 <!--
 **SltMatteo/SltMatteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
