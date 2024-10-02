@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Computer Science at ETH Zürich
+Computer Science student, 21yo 
 
 <!--
 **SltMatteo/SltMatteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
