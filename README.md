@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Computer Science student, 21yo // my wips are private
-
 <!--
 **SltMatteo/SltMatteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
